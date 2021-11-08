@@ -2,6 +2,7 @@
 - 👀 I’m interested in Financial Technology & Data Science
 - 🌱 I’m currently learning Software Security
 - 💻 Software Engineer
+- 🐏 Senior at West Chester University 
 - 🎓 Graduating December 2021
 
 <!---
