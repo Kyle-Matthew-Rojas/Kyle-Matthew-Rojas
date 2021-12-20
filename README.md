@@ -2,8 +2,7 @@
 - 👀 I’m interested in Financial Technology & Data Science
 - 🌱 I’m currently learning Software Security
 - 💻 Software Engineer
-- 🐏 Senior at West Chester University 
-- 🎓 Graduating December 2021
+- 🐏 West Chester University Alumi 
 
 <!---
 Kyle-Matthew-Rojas/Kyle-Matthew-Rojas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
