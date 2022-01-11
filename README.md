@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kyle-Matthew-Rojas
+- 👋 Hi, I’m Kyle Matthew Rojas
 - 👀 I’m interested in Financial Technology & Data Science
 - 🌱 I’m currently learning Software Security
 - 💻 Software Engineer
