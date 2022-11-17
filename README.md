@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kyle Matthew Rojas
 - 👀 I’m interested in Financial Technology & Data Science
-- 🌱 I’m currently learning Software Security
+- 🌱 I’m currently learning AWS
 - 💻 Software Engineer
 - 🐏 West Chester University Alumni 
 
